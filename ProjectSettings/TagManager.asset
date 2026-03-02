@@ -2,8 +2,18 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Coin
+  - Trap
+  - Enemy
+  - Key
+  - Bullet
+  - Energy
+  - HealHpItem
+  - Explosion
+  - EnemyBullet
+  - BoxBoss
   layers:
   - Default
   - TransparentFX
@@ -11,7 +21,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -41,3 +51,38 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackGround
+    uniqueID: 693111475
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3049906367
+    locked: 0
+  - name: Player
+    uniqueID: 2426715051
+    locked: 0
+  - name: Ground
+    uniqueID: 3714330889
+    locked: 0
+  - name: Enemy
+    uniqueID: 709432295
+    locked: 0
+  - name: Blood
+    uniqueID: 3822399865
+    locked: 0
+  - name: Bullet
+    uniqueID: 196728531
+    locked: 0
+  - name: Weapon
+    uniqueID: 3118764803
+    locked: 0
+  - name: Item
+    uniqueID: 2778658601
+    locked: 0
+  - name: Energy
+    uniqueID: 639202831
+    locked: 0
+  - name: UI
+    uniqueID: 3012550355
+    locked: 0
+  m_RenderingLayers:
+  - Default

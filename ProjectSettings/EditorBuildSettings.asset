@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 32a3542eed932fa4b878b100e58a400b
+  - enabled: 1
+    path: Assets/Scenes/MarioTrialsScene.unity
+    guid: c55bb7546c6e56d4db1358c9b23333bc
+  - enabled: 1
+    path: Assets/Scenes/UndeadSurvivorScene.unity
+    guid: ed2a89d50574622438079da8bd468bb6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
